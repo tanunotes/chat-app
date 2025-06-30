@@ -35,7 +35,7 @@ codtech-chat/ │ ├── index.html      # Main chat UI
 file └── README.md       # Project documentation
 
 ##output
-
+![Image](https://github.com/user-attachments/assets/f810f93c-58f3-4a50-b921-29adfe1015ac)
 ##How It Works
 
 When the user sends a message, it appears aligned to the right.
