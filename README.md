@@ -1,16 +1,3 @@
-## REAL-TIME CHAT APPLICATION
-
-*COMPANY* :CODTECH IT SOLUTIONS
-
-*NAME* : KOYA TANUJA
-
-*DOMAIN* :FRONT END DEVELOPMENT
-
-*INTERN ID*:CT04DF1295
-
-*DURATION* :4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
 # 💬 CodTech Chat
 
 A stylish, theme-switchable chat UI built with pure HTML, CSS, and JavaScript. It simulates a simple bot conversation, suitable for frontend internship projects or demo purposes.
